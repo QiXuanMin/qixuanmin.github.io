@@ -11,7 +11,7 @@ last_name: Min
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🌈
 
 # Is this the primary user of the site?
 superuser: true
@@ -54,5 +54,5 @@ highlight_name: true
 website: ""
 ---
 
-Qixuan Min is a graduate student with a master degree at the University of Chinese Academy of Sciences, Shanghai Institute of Optics and Fine Mechanics. His research interests include **Metasurface, Computational Imaging, Light-field Camera and Optical Neural Network**. During his Master's program, he focused on metasurface based computational imaging, advised by Prof. Guohai Situ. During his undergraduate studies, his research interests were in robotics. **He is finding a Ph.D. Position!** 
+Qixuan Min is a graduate student with a master degree at the University of Chinese Academy of Sciences. His research interests include **Nanophotonics(Metasurface), Computational Imaging, Deep Learning, Phase-Space Optics, Structured Light and Quantum Technology**. 
 
