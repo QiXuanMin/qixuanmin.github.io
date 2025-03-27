@@ -25,7 +25,7 @@ organizations:
     url: https://english.ucas.ac.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Metasurface, Computational Imaging and Light-field Camera.
+bio: My research interests include Metasurface, Computational Imaging and Quantum photonics.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
