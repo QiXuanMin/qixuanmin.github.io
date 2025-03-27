@@ -1,7 +1,7 @@
 ---
 title: Broadband and polarization-independent complex amplitude modulation using a single layer dielectric metasurface
 summary: Nanoscale
-date: 2025-3-4
+date: 2025-03-04
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
