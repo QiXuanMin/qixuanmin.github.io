@@ -1,6 +1,6 @@
 ---
 title: Fourier Phase Retrieval Using Physics-Enhanced Deep Learning
-summary: OPTICS LETTERS
+summary: Optics Letters
 date: 2024-10-23
 
 # Featured image
