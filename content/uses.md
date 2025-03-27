@@ -7,13 +7,10 @@ reading_time: false
 
 ## Education
 
-+ **Master of Electronic Information** : University of Chinese Academy of Sciences, Shanghai Institute of Optics and Fine Mechanics, Shanghai, China. 
++ **Master of Electronic Information** : University of Chinese Academy of Sciences, Hangzhou Institute for Advanced Study, Hangzhou, China. 
 
   <p align="right">Sep 2021 - July 2024</p>
 
-+ **Bachelor of Automation** : Shanghai Maritime University, Shanghai, China.
-
-<p align="right">Sep 2017 - July 2021</p>
 
 ## Research Project
 
