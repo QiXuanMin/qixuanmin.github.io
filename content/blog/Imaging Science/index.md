@@ -18,4 +18,5 @@ image:
 $$
 U_i(x,y) = \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} U_o(\xi,\eta) h(x-\xi, y-\eta) d\xi d\eta
 $$
- 
+
+Is there any difference?
