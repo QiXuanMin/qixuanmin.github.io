@@ -21,3 +21,8 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+[markup]
+  [markup.goldmark.renderer]
+    [markup.goldmark.renderer.extensions]
+      math = true 
