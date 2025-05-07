@@ -1,7 +1,7 @@
 ---
 title: Coherent Imaging
 summary: Imaging Theory
-date: 2021-09-01
+date: 2025-05-01
 math: true
 authors:
   - admin
