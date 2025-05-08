@@ -22,7 +22,8 @@ reading_time: false
 
 ### Published papers
 
-+ Zhang, N., Wang, F., **Min, Q.**, Liu, X., Yuan, H., Guo, J. and Situ, G., 2025. Broadband and polarization-independent complex amplitude modulation using a single layer dielectric metasurface. **Nanoscale**. Published.
++ Zhang, N.,  **Min, Q**., Liu, X., Yuan, H., Liu, H., Huang, Z., Zhao, X., Wang, F., Guo, J. and Situ, G., 2025. SiM-SHDR: Single-Layer Metasurface for Snapshot High Dynamic Range Imaging. *Photonics Research*, Accepted.
++ Zhang, N., Wang, F., **Min, Q**., Liu, X., Yuan, H., Guo, J. and Situ, G., 2025. Broadband and polarization-independent complex amplitude modulation using a single layer dielectric metasurface. *Nanoscale*, *17*(15), pp.9562-9568.
 + Zhang, Z., Wang, F., **Min, Q.**, Jin, Y. and Situ, G., 2024. Fourier phase retrieval using physics-enhanced deep learning, Optics Letters, 49(21), 6129-6132.
 + **Min, Q**., Trapp, J., Fang, T., Hu, R., Wang, F., Zhang, Z., Liu, X., Dai, A., Yang, C., Guo, J. and Situ, G., 2024. Varifocal Metalens for Compact and Accurate Quantitative Phase Imaging. ACS Photonics , 11(7), 2797-2804.
 + Hu, R., **Min, Q.**, Liu, X., Dai, A., Guo, J. and Situ, G. 2024. Terahertz programmable metasurface for phase modulation based on free carrier plasma dispersion effect.  Applied Physics Letters, 124(25), 251703.
