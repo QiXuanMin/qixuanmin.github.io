@@ -15,7 +15,7 @@ image:
 
 阿贝的成像模型比较原始，灵感来自于双缝干涉和惠更斯原理，他认为：光照射在物体上，根据惠更斯原理，物体作为一个次级波源继续传播，物光经过透镜后在透镜的后焦面上发生了第一次干涉，这些焦斑继续传播，在成像面上发生了第二次干涉从而产生了图像。<a href="#1">[1]</a>
 
-![abbe imaging theory](.\abbe imaging theory.png)
+<img src=".\abbe imaging theory.png" />
 
 <center style="font-size:14px"><p>Figure 1. Abbe Theory of image formation by diffraction and interference. </p></center>
 
