@@ -54,5 +54,5 @@ highlight_name: true
 website: ""
 ---
 
-Qixuan Min is a graduate student with a master degree at the University of Chinese Academy of Sciences. His research interests include **Nanophotonics(Metasurface), Computational Imaging, Deep Learning, Phase-Space Optics, Structured Light and Quantum Technology**. 
+Qixuan Min is an incoming Ph.D. student at Monash University. He is a graduate student with a master degree at the University of Chinese Academy of Sciences. His research interests include **Nanophotonics(Metasurface), Computational Imaging, Machine Learning, Phase-Space Optics, Structured Light and Quantum Technology**. 
 
