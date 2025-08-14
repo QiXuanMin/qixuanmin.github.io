@@ -19,7 +19,7 @@ image:
 
 <center style="font-size:14px"><p>Figure 1. Abbe Theory of image formation by diffraction and interference. </p></center>
 
-根据Abbe的理论，一个复杂的物体所产生的衍射分量中，只有一部分贝有限的入射光瞳截取（相对低频的分量），而未被截取的是高频分量。
+根据Abbe的理论，一个复杂的物体所产生的衍射分量中，只有一部分被有限的入射光瞳截取（相对低频的分量），而未被截取的是高频分量就损失了。其能通过的最高频率的分量由成像系统的F数，$F = f/D$决定，其中$f$为焦距$D$为出瞳直径。
 
 ## 相干成像理论
 
