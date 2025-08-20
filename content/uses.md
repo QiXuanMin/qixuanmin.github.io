@@ -1,11 +1,15 @@
 ---
 title: Experience
-date: 2024-07-12
+date: 2025-07-12
 hide_date: true
 reading_time: false
 ---
 
 ## Education
+
++ **Ph.D. Student** : Monash University, Clayton, Australia
+
+<p align="right">Offer Accepted</p>
 
 + **Master of Electronic Information** : University of Chinese Academy of Sciences, Hangzhou Institute for Advanced Study, Hangzhou, China. 
 
