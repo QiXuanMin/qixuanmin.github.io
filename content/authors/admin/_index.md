@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master Student of Science
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Chinese Academy of Sciences
-    url: https://english.ucas.ac.cn/
+  - name: Monash University
+    url: https://www.monash.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Metasurface, Computational Imaging and Quantum photonics.
@@ -38,7 +38,7 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/qixuan-min-634a04342/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/PhD_application_CV.pdf
@@ -54,5 +54,5 @@ highlight_name: true
 website: ""
 ---
 
-Qixuan Min is an incoming Ph.D. student at Monash University. He is a graduate student with a master degree at the University of Chinese Academy of Sciences. His research interests include **Nanophotonics(Metasurface), Computational Imaging, Machine Learning, Phase-Space Optics, Structured Light and Quantum Technology**. 
+Qixuan Min is an incoming Ph.D. student at Monash University supervised by Prof. Stefan A Maier and Dr. Haoran Ren. He is a graduate student with a master degree at the University of Chinese Academy of Sciences supervised by Prof. Guohai Situ. His research interests include **Nanophotonics(Metasurface), Computational Imaging, Structured Light and Nonlinear Optics**. 
 
