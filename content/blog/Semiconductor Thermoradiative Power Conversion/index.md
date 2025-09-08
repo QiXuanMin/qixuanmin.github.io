@@ -39,7 +39,11 @@ $$
 
 ## 热辐射二极管的工作原理
 
+传统的热辐射发电器件热的流动从辐射物体$T_H$到发射表面$T_{EM}$再到大气温度$T_C$，满足$T_H >T_{EM}>T_C$，如图3的a所示。而如果使用窄带半导体作为热发射器件，可直接产生电能，如图3.b所示，其热关系满足$T_H=T_{EM}>T_C$。
 
+<img src=".\Thermodynamic for thermoradiative devices.png" />
+
+<center style="font-size:14px"><p>Figure 3. Thermodynamic energy (E), heat(Q) and entropy(S) flows for thermoradiative devices. </p></center>
 
 
 ------
