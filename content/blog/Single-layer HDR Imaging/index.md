@@ -1,6 +1,6 @@
 ---
 title: Single-layer metasurface for snapshot high-dynamic-range imaging
-summary: Nanoscale
+summary: Photonics Research
 date: 2025-08-01
 
 # Featured image
