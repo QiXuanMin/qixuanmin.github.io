@@ -73,7 +73,7 @@ $$
 
 Index-matched lens
 
-<img src="D:\BLOG\content\blog\Semiconductor Thermoradiative Power Conversion\index-matched lens.png" style="zoom:50%;" />
+<img src=".\index-matched lens.png" style="zoom:50%;" />
 
 <center style="font-size:14px"><p>Figure 4. Index-matched hemispherical lens.</p></center>
 
@@ -87,7 +87,17 @@ Index-matched lens
 
 + 还提到上面这种增强是宽带发射情况下，如果光谱的带宽收到限制，发射增强效果会强于这个值。**如果你不要求增强所有颜色的光（宽带发射），而是只针对一个很窄的波长范围（限制光谱带宽），那么吸收/发射增强因子就有可能突破4n²这个经典极限**。
 
-+ **为什么可以超越？** 4n²极限是针对*宽带*（所有波长）的统计平均极限。当你只关心一个特定波长时，你可以利用**光学共振效应**（如法布里-珀罗腔、光子晶体、等离子激元等）。这些共振结构可以在特定波长附近极大地局域和增强光场，使得该特定波长下的吸收和发射效率远高于宽带随机纹理结构的统计平均值。这本质上是**Purcell效应**的体现——通过改变光学态密度来显著增强发光速率。
++ **为什么可以超越？** 4n²极限是针对*宽带*（所有波长）的统计平均极限。当只关心一个特定波长时，可以利用**光学共振效应**（如法布里-珀罗腔、光子晶体、等离子激元等）。这些共振结构可以在特定波长附近极大地局域和增强光场，使得该特定波长下的吸收和发射效率远高于宽带随机纹理结构的统计平均值。这本质上是**Purcell效应**的体现——通过改变光学态密度来显著增强发光速率。
+
+### Randomly scattering back surface
+
+这种方法，就是把玻璃的表面添加一些随机散射的纹理，使得光能够突破全反射，更容易外耦合到自由空间，缺点很明显，就是效率低下，外耦合效率没那么高。
+
+<img src=".\Randomly scattering back surface.png" style="zoom:50%;" />
+
+<center style="font-size:14px"><p>Figure 5. Random scattering texture surface.</p></center>
+
+### Metasurface
 
 
 
