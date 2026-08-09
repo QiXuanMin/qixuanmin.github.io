@@ -22,16 +22,29 @@ image:
 
 <center style="font-size:14px"><p>Figure 1. Flowchart of RCWA. </p></center>
 
+## Theory
 
-
-## 相干成像理论
-
-​	在单色光情况下，像的复振幅$U_i$可以用物像复振幅$U_o$的叠加积分表示：
+The relative permittivity and permeability of each layer and the time-harmonic Maxwell’s curl Equations can be expressed as：
 $$
-U_i(u,v) = \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} U_o(\xi,\eta) h(u,v;\xi,\eta) d\xi d\eta
+\begin{equation}
+\begin{aligned}
+& \mu(x,y)=\varepsilon(x+mT_x,y+nT_y), n,m\in{Z}\\
+& \varepsilon(x,y)=\varepsilon(x+mT_x,y+nT_y), n,m\in{Z}\\
+& \nabla \times \mathbf{E}=j \omega \mu_0 \mu(x, y) \mathbf{H} \\
+& \nabla \times \mathbf{H}=-j \omega \varepsilon_0 \varepsilon(x, y) \mathbf{E}
+\end{aligned}
+\end{equation}
 $$
+where $T_x, T_y$ is periods of $x,y$ axis, $\omega$ is the angular frequency of the light, $\mu_0,\varepsilon$ is the permeability and permittivity in free space, respectively.
 
-其中$u,v$是像平面的坐标，$\xi,\eta$是物平面坐标，$h(u,v;\xi,\eta)$为系统的**脉冲响应函数**，其物理意义是：物平面点$(\xi,\eta)$的一个脉冲信号经过该系统后在像平面的点$(u,v)$产生的响应，其傅里叶变换$H(g_x,g_y;f_x,f_y)$为**相干传递函数CTF**。上述式子如果在一个空不变系统中，则可以理解为一个卷积：
+The relative permittivity and permeability of the layer can be expanded as the **truncated Fourier series** in x- and y-directions as below.
+$$
+\begin{aligned}
+& \varepsilon(x, y)=\sum_{m=-2 M}^{2 M} \sum_{n=-2 N}^{2 N} \varepsilon_{m, n} e^{j\left(m G_x x+n G_y y\right)} \\
+& \mu(x, y)=\sum_{m=-2 M}^{2 M} \sum_{n=-2 N}^{2 N} \mu_{m, n} e^{j\left(m G_x x+n G_y y\right)}
+\end{aligned}
+$$
+where $G_x=\frac{2\pi}{T_x},G_y=\frac{2\pi}{T_y}$ are reciprocal lattice vectors in x- and y-directions. M and N are the truncated orders in Fourier harmonics.
 $$
 U_i(u,v)=U_o(\xi,\eta)\bigotimes h(u,v;\xi,\eta)
 $$
