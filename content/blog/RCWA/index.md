@@ -1,6 +1,6 @@
 ---
 title: Rigorous Coupled-Wave Analysis
-summary: RCWA
+summary: Reading Notes
 date: 2026-08-02
 math: true
 authors:
