@@ -21,7 +21,7 @@ reading_time: false
 ### Working papers
 
 + Aberration-free Ultra-wide field-of-view metalens imaging.
-+ Achromatic single-let metalens.
++ Multifunctional Hybrid metalens.
 
 ### Published papers
 

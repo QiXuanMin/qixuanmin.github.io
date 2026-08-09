@@ -41,7 +41,7 @@ profiles:
     url: https://www.linkedin.com/in/qixuan-min-634a04342/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
-    url: uploads/PhD_application_CV.pdf
+    url: uploads/CV-Qixuan.pdf
     label: Download my resume
   - icon: rss
     url: ./post/index.xml
@@ -54,5 +54,4 @@ highlight_name: true
 website: ""
 ---
 
-Qixuan Min is an incoming Ph.D. student at Monash University supervised by Prof. Stefan A Maier and Dr. Haoran Ren. He is a graduate student with a master degree at the University of Chinese Academy of Sciences supervised by Prof. Guohai Situ. His research interests include **Nanophotonics(Metasurface), Computational Imaging, Structured Light and Nonlinear Optics**. 
-
+I am a Ph.D. student at Monash University supervised by Prof. Stefan A Maier and Dr. Haoran Ren. I got my master degree at Shanghai Institute of Optics and Fine Mechanics & Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences supervised by Prof. Guohai Situ. My research interests include **Nanophotonics, Computational Imaging, Inverse Design and Deep Learning**. 
