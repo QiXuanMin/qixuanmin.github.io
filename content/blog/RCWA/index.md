@@ -49,6 +49,24 @@ $$
 U_i(u,v)=U_o(\xi,\eta)\bigotimes h(u,v;\xi,\eta)
 $$
 
+We transform the Maxwell's curl Equations into **Lorentz-Heaviside** units for convenience and to  minimize floating-point errors. In this unit, $E$ , $H$ and $\omega$ are different, $E_{SI} \to E_{LH}, \sqrt{\mu_0/\varepsilon_0}H_{SI}\to H_{LH},\sqrt{\mu_0\varepsilon_0}\omega_{SI} \to \omega_{LH}$. Equation (1) can be expressed as,
+$$
+\begin{aligned}
+& \nabla \times \mathbf{E}=j \omega \mu(x, y) \mathbf{H} \\
+& \nabla \times \mathbf{H}=-j \omega \varepsilon(x, y) \mathbf{E}
+\end{aligned}
+$$
+The electromagnetic fields in a single layer can be expressed as truncated Fourier series.
+$$
+\begin{aligned}
+\mathbf{E} & =e^{j\left(k_{0, x} x+k_{0, y} y+k_z z\right)} \sum_{m=-M}^M \sum_{n=-N}^N \mathbf{E}_{m, n} e^{j\left(m G_x x+n G_y y\right)} \\
+\mathbf{H} & =e^{j\left(k_{0, x} x+k_{0, y} y+k_z z\right)} \sum_{m=-M}^M \sum_{n=-N}^N \mathbf{H}_{m, n} e^{j\left(m G_x x+n G_y y\right)}
+\end{aligned}
+$$
+
+
+
+
 
 
 
