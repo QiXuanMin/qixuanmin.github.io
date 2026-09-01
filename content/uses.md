@@ -9,9 +9,9 @@ reading_time: false
 
 + **Ph.D. Student** : Monash University, Clayton, Australia
 
-<p align="right">Offer Accepted</p>
+<p align="right">May 2025 - July 2026</p>
 
-+ **Master of Electronic Information** : University of Chinese Academy of Sciences, Hangzhou Institute for Advanced Study, Hangzhou, China. 
++ **Master of Science** : Shanghai Institute of Optics and Fine Mechanics, University of Chinese Academy of Sciences, Shanghai, China. 
 
   <p align="right">Sep 2021 - July 2024</p>
 
