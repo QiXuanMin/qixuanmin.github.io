@@ -54,5 +54,5 @@ highlight_name: true
 website: ""
 ---
 
-I am a Ph.D. student at Monash University supervised by Prof. Stefan A Maier and Prof. Haoran Ren. I got my master degree at University of Chinese Academy of Sciences(SIOM) supervised by Prof. Guohai Situ. My research interests include **Nanophotonics, Nanofabrication, Computational Imaging and Deep Learning**. 
+I am a Ph.D. student at Monash University under the supervision of Prof. Stefan A. Maier and Prof. Haoran Ren. I received my Master’s degree from the University of Chinese Academy of Sciences (SIOM), supervised by Prof. Guohai Situ. My research interests lie at the intersection of nanophotonics, nanofabrication, computational imaging, and deep learning.
 
