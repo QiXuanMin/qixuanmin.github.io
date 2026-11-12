@@ -1,0 +1,25 @@
+<section class="academic-research academic-shell" id="research" aria-labelledby="research-title">
+  <div class="academic-section-heading">
+    <div><p class="academic-eyebrow">Research journal</p><h2 id="research-title">Research &amp; Projects</h2></div>
+    <a href="{{ "uses/" | relURL }}">Publications &amp; experience <span aria-hidden="true">↗</span></a>
+  </div>
+  <p class="academic-section-intro">Papers, research notes, and engineering projects.</p>
+  <div class="academic-entries">
+    {{ range (where site.RegularPages "Section" "blog").ByDate.Reverse }}
+    <article class="academic-entry">
+      <a class="academic-thumbnail" href="{{ .RelPermalink }}" tabindex="-1" aria-hidden="true">
+        {{ with .Resources.GetMatch "featured.*" }}
+          {{ $thumb := .Fit "480x320" }}
+          <img src="{{ $thumb.RelPermalink }}" alt="" width="{{ $thumb.Width }}" height="{{ $thumb.Height }}" loading="lazy">
+        {{ end }}
+      </a>
+      <div class="academic-entry-copy">
+        <div class="academic-entry-meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2006" }}</time>{{ with .Params.summary }}<span>{{ . | plainify }}</span>{{ end }}</div>
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        {{ with .GetTerms "tags" }}<div class="academic-tags">{{ range . }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}</div>{{ end }}
+      </div>
+      <a class="academic-entry-arrow" href="{{ .RelPermalink }}" aria-label="Read {{ .Title }}">↗</a>
+    </article>
+    {{ end }}
+  </div>
+</section>

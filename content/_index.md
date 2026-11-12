@@ -3,7 +3,7 @@ title: 'Home'
 date: 2023-10-24
 type: landing
 sections:
-  - block: resume-biography
+  - block: academic-profile
     content:
       # The user's folder name in content/authors/
       username: admin
@@ -12,12 +12,12 @@ sections:
         padding: [0, 0, 0, 0]
       biography:
         style: 'text-align: justify; font-size: 0.8em;'
-  - block: collection
+  - block: academic-research
     content:
       filters:
         folders:
           - blog
     design:
       spacing:
-        padding: ['3rem', 0, '6rem', 0]
+        padding: [0, 0, 0, 0]
 ---

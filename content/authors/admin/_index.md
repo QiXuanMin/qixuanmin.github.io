@@ -44,7 +44,7 @@ profiles:
     url: uploads/CV-Qixuan.pdf
     label: Download my resume
   - icon: rss
-    url: ./post/index.xml
+    url: /blog/index.xml
     label: Subscribe to my blog via RSS feed
 
 # Highlight the author in author lists? (true/false)

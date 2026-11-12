@@ -1,0 +1,29 @@
+{{ $author := site.GetPage "authors/admin" }}
+<section class="academic-profile academic-shell" aria-labelledby="profile-name">
+  <div class="academic-profile-copy">
+    <p class="academic-eyebrow">Personal academic website</p>
+    <h1 id="profile-name">{{ $author.Params.first_name }} {{ $author.Params.last_name }} <span lang="zh">{{ $author.Title }}</span></h1>
+    <p class="academic-focus">Nanophotonics &amp; Computational Imaging</p>
+    <div class="academic-bio">{{ $author.Content }}</div>
+    <div class="academic-contact" aria-label="Contact and profiles">
+      {{ range $author.Params.profiles }}
+        {{ $label := .label }}
+        {{ if eq .icon "at-symbol" }}{{ $label = "Email" }}{{ end }}
+        {{ if eq .icon "brands/x" }}{{ $label = "X / Twitter" }}{{ end }}
+        {{ if eq .icon "brands/instagram" }}{{ $label = "Instagram" }}{{ end }}
+        {{ if eq .icon "brands/linkedin" }}{{ $label = "LinkedIn" }}{{ end }}
+        {{ if eq .icon "academicons/cv" }}{{ $label = "Curriculum vitae ↗" }}{{ end }}
+        {{ if eq .icon "rss" }}{{ $label = "RSS" }}{{ end }}
+        <a href="{{ .url | relURL }}">{{ $label }}</a>
+      {{ end }}
+    </div>
+  </div>
+  <aside class="academic-portrait">
+    {{ with $author.Resources.GetMatch "avatar.*" }}
+      {{ $portrait := .Fill "480x560 Center" }}
+      <img src="{{ $portrait.RelPermalink }}" alt="Portrait of {{ $author.Title }}" width="240" height="280" fetchpriority="high">
+    {{ end }}
+    <p>Research interests</p>
+    <ul><li>Nanophotonics</li><li>Nanofabrication</li><li>Computational imaging</li><li>Deep learning</li></ul>
+  </aside>
+</section>
