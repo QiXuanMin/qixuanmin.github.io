@@ -7,9 +7,13 @@ reading_time: false
 
 ## Education
 
-+ **Ph.D. Student** : Monash University, Clayton, Australia
++ **Ph.D. Student** : NUS - SUTD Joint program, Singapore
 
-<p align="right">May 2025 - July 2026</p>
+  <p align="right">Jan 2027 - </p>
+
++ **Ph.D. Student(withdraw for visa)** : Monash University, Clayton, Australia
+
+<p align="right">May 2025 - Nov 2026</p>
 
 + **Master of Science** : Shanghai Institute of Optics and Fine Mechanics, University of Chinese Academy of Sciences, Shanghai, China. 
 
