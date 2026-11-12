@@ -54,7 +54,7 @@ highlight_name: true
 website: ""
 ---
 
-I will join the NUS–SUTD Joint Ph.D. Programme in Jan 2027. Prior to this, I received a fully funded Ph.D. offer from Monash University under the supervision of Prof. Stefan A. Maier and Prof. Haoran Ren, which I unfortunately had to decline due to visa-related issues.
+I will join the NUS–SUTD Joint Ph.D. Programme in Jan 2027. Prior to this, I secured a fully funded Ph.D. offer from Monash University under the supervision of Prof. Stefan A. Maier and Prof. Haoran Ren, which I unfortunately had to decline due to significant visa delay.
 
 I received my Master’s degree from the University of Chinese Academy of Sciences (SIOM), under the supervision of Prof. Guohai Situ. My research interests lie at the intersection of nanophotonics, nanofabrication, computational imaging, and deep learning.
 
